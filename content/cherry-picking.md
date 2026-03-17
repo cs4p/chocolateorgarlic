@@ -4,7 +4,7 @@ date: 2020-05-19T06:23:41
 author: "Alexandra"
 draft: false
 categories: ["Uncategorized"]
-slug: "cherry-picking-%f0%9f%8d%92"
+slug: "cherry-picking"
 wordpress_id: 2122
 description: "On Tuesday evening, from 5-7 pm, to try and avoid the heat, we went cherry picking at Ramat Rachel. Ramah Rachel is a kibbutz only about a ten minute drive away. We went with Ima and our friend Zohar."
 ---
