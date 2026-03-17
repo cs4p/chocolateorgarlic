@@ -17,4 +17,4 @@ This dish would not be improved by garlic but it would not taste worse by the ad
 
 – Naomi
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](/images/2019/08/img_5159.jpg)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](/images/img_5159.jpg)

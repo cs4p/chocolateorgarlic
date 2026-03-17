@@ -9,7 +9,7 @@ wordpress_id: 72
 description: "We arrived late Tuesday night at our apartment and were please to find out that we were only one block away from a 24 hours variety store and from a very popular ice cream shop that was happy to serve"
 ---
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://i2.wp.com/chocolateorgarlic.com/wp-content/uploads/2019/08/IMG_2885.jpg?fit=584%2C438&ssl=1)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://i2.wp.com/chocolateorgarlic.com/wp-content/uploads/IMG_2885.jpg?fit=584%2C438&ssl=1)
 
 Travelling Borodin style
 
