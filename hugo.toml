@@ -1,0 +1,51 @@
+#baseURL = "https://chocolateorgarlic.com/"
+baseURL = "https://chocolateorgarlic.cs4p.workers.dev"
+languageCode = "en-us"
+title = "Chocoalte or Garlic"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 50
+
+[params]
+  author = "JAN"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  mainSections = ["page"]
+  hideSummary = true
+  hideDescriptionInSingle = true
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "author"
+  name = "Authors"
+  url = "/author/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "author"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # Enables /authors/ pages per author

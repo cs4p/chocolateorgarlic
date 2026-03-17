@@ -1,0 +1,22 @@
+---
+title: "Reflections on the Holidays Off the Bima and in the land of Israel"
+date: 2019-10-10T10:20:50
+author: "Jill"
+draft: false
+categories: ["Uncategorized"]
+slug: "reflections-on-the-holidays-off-the-bima-and-in-the-land-of-israel"
+wordpress_id: 217
+description: "I wanted to share a few brief thoughts on my first holidays off the bima in over 20 years and my first time ever in Israel for Rosh Hashanah and second time for Yom Kippur. First, one of the things th"
+---
+
+I wanted to share a few brief thoughts on my first holidays off the bima in over 20 years and my first time ever in Israel for Rosh Hashanah and second time for Yom Kippur.
+
+First, one of the things that felt radically different is what you can do with the prayers when everyone is fluent in the language of the prayers. We were at a kol nidrei service where almost everyone in the room had Hebrew as their first language and all of our services were fully in hebrew and the presumption was that everyone understood all the hebrew. As a result, there were puns and riffs done on the hebrew of the tefilot, people from the congregation spontaneously took turns leading parts of different piyutim (liturgical poems and songs) and some of our prayer leaders spontaneously offered their own prayers (which always feel more poetic to me in Hebrew than in English). While I spent much effort in Seattle thinking how to make meaningful Hebrew prayers that are relatively poorly understood in the original, that wasn’t a component of services here and opened up all new possibilities of what can happen with the prayers. The fluency in language also allowed for the fact that in one of our minyanim, we bounced between three different makzorim and in the other one, everyone had a different makzor that not only had different pages but also included different prayers and people could follow. My other impression on our tefilah experiences here is that we were at communities where individuals were deeply rooted to their family tefilah traditions and nusach (tunes) and it was important for that to be expressed in the prayers and hear their families’ tunes.
+
+Many people here asked me what it was like to be off the bima. I will say that I am pretty trained in needing to look for the person with the next honor or to see where my Torah readers or shofar blowers are and I automatically found myself scanning the room, only to stop myself because I didn’t need to look for anyone. Nor did I need to stress about the timing of services and whether we were running early or late (another regular stress point for me). And I will say, Neilah felt odd for me to not be busy with hand signals to our shliachat tzibur Mara about whether we were running early or late and how we should adjust tefilot to end just on time. As the person who usually has met ahead of time with all our tefilah leaders and knows every page we will say, and the placement of every ark opening and all of the planned details (there are always some surprises), it was a very different feeling to have no idea what was going to happen and what pages would be skipped and what were the local customs and needing to stay focused to avoid losing my page. I think this was an important experience for me to have to gain in my understanding of what synagogue service is like for those less familiar with Hebrew and traditional prayer. (I did feel more knowledgeable when we davened at an ashkenazi conservative shul on first day rosh hashanah. Our other tefilot were with sefardic egalitarian communities where the tefilot were less familiar.)
+
+For many of us concentrating on the prayers can be a challenge. I often have an easy way out with needing to facilitate services running smoothly and paying attention to the details associated with that. This year, I had no other details that needed my attention so I had no excuse but to try to stay focus on my tefilot – and let’s just say it is a work in progress. But was a treat to be able to focus on it.
+
+It also had a very different feeling that arose from feeling I didn’t have any skin in the game with any particular service, including knowing I could come and go as I please if the service wasn’t speaking to me. (and indeed erev rosh hashanah, I changed shuls between mincha and maariv). It was both a freeing feeling and a disempowering feeling, feeling my presence didn’t matter.
+
+Really a treat and meaningful experience being able to spend the high holidays (and all the holidays) in Jerusalem.

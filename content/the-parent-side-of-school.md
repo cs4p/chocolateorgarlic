@@ -1,0 +1,16 @@
+---
+title: "The Parent Side of School"
+date: 2019-09-02T11:47:27
+author: "Jill"
+draft: false
+categories: ["Uncategorized"]
+slug: "the-parent-side-of-school"
+wordpress_id: 87
+description: "While Naomi and Alexandra have been working hard trying to understand a full day of school in Hebrew, I've been working hard trying to figure out getting them lockers and textbooks - both "
+---
+
+While Naomi and Alexandra have been working hard trying to understand a full day of school in Hebrew, I’ve been working hard trying to figure out getting them lockers and textbooks – both of which should be simple but for those of you who know Israeli bureaucracy, you probably not that it is not as simple as it sounds. And that would definitely be true – now on my 4th day on trying to get lockers and have only gotten one for alexandra but not Naomi and spend an entire day working on textbooks and not yet there.
+
+In brief, lockers are owned not by the school but by an outside company and you are supposed to order them on the website and they don’t have anyone who can help you by phone or respond to your questions. Without having an Israeli teudat zeut (identity card), there was no way to sign up on line for a locker and then when I met with the representative in person, she wasn’t set up for cash and couldn’t take my credit card without a teudat zeut. I finally got the representative to take cash, but by then, there were no lockers left in Naomi’s class area as there are less lockers than kids. The locker company and school are promising a solution, and I am curious to see what it will be and when we actually will see it.
+
+Now the Israeli schools don’t supply textbooks, though for a few subjects, they have their own anthologies/booklets which they do sell but only when their book selling representative is present which is at limited, middle of the day hours, and but even then, as I learnt today, may or many not have the booklets the school says it has. But for the majority of the books, you have to go to a specialized store that sells school text books and there are very few of them and the whole city is visiting them at the same time. I waited until today as I was told the wait times were hours long last week and yesterday. And even today, once school was started, in the middle of the work day, I needed to walk 30 minutes to the closest textbook store, wait on line 45 minutes to be helped (the text books are in a room closed off to the public), then took 15 mins to be helped (and in the end, was given a wrong book which i discovered when I got home), then wait another 30 minutes to pay for the books, and ended up that they were missing three of the needed books and didn’t know when they would get them in, and don’t answer email or phone calls about what they have in stock. I did feel like a real Israeli experience waiting in line with Israelis speaking hebrew with different accents, from all different backgrounds, most of whom were yelling at the clerks to speed up and wanting to know why there were not more salesperson. As the girls learn to be students in the Israeli schools, I’m working to learn to navigate being a parent of students in the Israeli school system (reading parent emails in hebrew).

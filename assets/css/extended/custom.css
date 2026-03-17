@@ -1,0 +1,102 @@
+/* Custom color scheme to match chocolateorgarlic.com */
+
+:root {
+    /* Light mode colors */
+    --theme: #f5efe0;
+    --entry: #ffffff;
+    --primary: #000000;
+    --secondary: #6d6d6d;
+    --tertiary: #dcd7ca;
+    --content: #000000;
+    --hljs-bg: #dcd7ca;
+    --code-bg: #dcd7ca;
+    --border: #dcd7ca;
+    --accent: #cd2653;
+}
+
+:root[data-theme='dark'] {
+    /* Dark mode colors (optional) */
+    --theme: #1d1d1d;
+    --entry: #2e2e33;
+    --primary: #f5efe0;
+    --secondary: #a0a0a0;
+    --tertiary: #3d3d40;
+    --content: #e0e0e0;
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #3d3d40;
+    --accent: #cd2653;
+}
+
+/* Link colors */
+a,
+a:visited {
+    color: var(--accent);
+}
+
+a:hover {
+    color: var(--accent);
+    opacity: 0.8;
+}
+
+/* Button colors */
+.post-nav a,
+button,
+.button,
+.top-link,
+
+
+/* Entry title links should be visible */
+.entry-header h2 a {
+    color: var(--primary);
+}
+
+.entry-header h2 a:hover {
+    color: var(--accent);
+}
+
+/* Post entry hover */
+.post-entry:hover {
+    transform: scale(1.01);
+    box-shadow: 0 2px 8px rgba(205, 38, 83, 0.1);
+}
+
+/* Header */
+.logo a {
+    font-weight: 700;
+    color: var(--primary);
+}
+
+/* Menu */
+#menu a {
+    color: var(--primary);
+}
+
+#menu a:hover {
+    color: var(--accent);
+}
+
+/* Footer */
+footer {
+    border-top-color: var(--border);
+}
+
+/* Post meta */
+.post-meta,
+.post-meta a {
+    color: var(--secondary);
+}
+
+/* Code blocks */
+code {
+    background: var(--code-bg);
+    color: var(--primary);
+}
+
+/* Borders */
+.post-entry,
+.toc,
+.share-buttons,
+.paginav {
+    border-color: var(--border);
+}
