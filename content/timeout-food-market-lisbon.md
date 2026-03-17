@@ -19,4 +19,4 @@ Pastéis would be improved by drizzling some dark chocolate on top.
 
 – Naomi
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](/images/2019/08/img_5193.jpg)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](/images/img_5193.jpg)
